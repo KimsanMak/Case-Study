@@ -18,4 +18,4 @@ The datasets used for the analysis are as follows:
 
 ## Tools
 The different tables were checked and cleaned using Excel, and then generated plots for analysis using Tableau Public. 
-***The storyboard of the project can be viewed in [Tableau Public](https://public.tableau.com/app/profile/kimsan.mak/viz/ProjectInfluenzaPreparedness/Story1)***
+***The storyboard of the case study can be viewed in [Tableau Public](https://public.tableau.com/app/profile/kimsan.mak/viz/ProjectInfluenzaPreparedness/Story1) or [Case Study] pdf file***
